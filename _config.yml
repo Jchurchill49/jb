@@ -4,6 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
+markdown: redcarpet
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -11,8 +12,8 @@ pygments: true
 title : Jackie's Jekyll Journal
 tagline: A jekyll website starter
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : Jackie Churchill
+  email : jacquelinec2008@eagles.ewu.edu
   github : username
   twitter : username
   feedburner : feedname
